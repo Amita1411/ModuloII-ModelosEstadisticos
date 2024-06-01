@@ -1,0 +1,4 @@
+- Curso: MODELOS ESTADISTICOS
+- Alumno: Andrés Amitai Reyes Cerecedo
+- Para este curso espero realizar codigos de programacion en Python sobre variables aleatorios, poder reforzar mis conocimientos sobre estos
+- y desarrollar  nuevas habilidades para la programacion 
